@@ -15,10 +15,24 @@ The path to the article will be update in the link, later today.
 ## Installation
 ### To run the application locally, you will need to:
 
-**Clone the project repository and navigate to the root directory.**\n
+**Clone the project repository and navigate to the root directory**.\n
 **Create a virtual environment for the project using the following command:**
+```
+learning_log$ python -m venv ll_env
+```
+**Note that the name of the new directory, ll_env, is arbitrary and can be changed. Also, you are not meant to include "learning_log$" while running the command
+**In this instance, we're executing the venv module to generate a virtual environment named ll_env. A possible erro you may get is this:
+```
+Command 'python' not found, did you mean:
 
-`#learning_log$ python -m venv ll_env`
+command 'python3' from deb python3
+command 'python' from deb python-is-python3
+```
+To solve that, consider using the version of python that runs on your machine. Replace python with python3 in the command above. You should have something like this:
+```
+learning_log$ python3 -m venv ll_env
+```
+
 
 ## Usage
 **Once the application is running, navigate to http://localhost:8000 in your web browser to access the homepage. From there, you can create a new account, log in, and start keeping track of your learning topics and entries.**

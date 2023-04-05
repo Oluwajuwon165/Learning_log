@@ -54,6 +54,7 @@ To stop using a virtual environment, enter deactivate:
 (ll_env)learning_log$ deactivate
 ```
 **You don't have to deactivate the virtual environment. It is needed to run this application. That was just to show you how to deactivate it when you are done.**
+
 **In the active virtual environment, upgrade pip and install Django using the following commands:**
 ```
 (ll_env)learning_log$ pip install --upgrade pip

@@ -76,7 +76,7 @@ Collecting asgiref<4,>=3.6.0
 Installing collected packages: sqlparse, backports.zoneinfo, asgiref, django
 Successfully installed asgiref-3.6.0 backports.zoneinfo-0.2.1 django-4.2 sqlparse-0.4.3
 ```
-**Install the modules django-bootstrap5 and platformshconfig, which are listed in the requirements.txt file, using the following commands:**
+**Install the modules, django-bootstrap5, and platformshconfig, which are listed in the requirements.txt file, using the following commands:**
 ```
 (ll_env)learning_log$ pip install django-bootstrap5
 ```

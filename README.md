@@ -156,3 +156,4 @@ One of the main challenges I faced was was the deployment of the app. I encounte
 Overall, I am very happy with the outcome of the project and I have already started using it to keep track of my own learning progress. In the future, I would like to add more features such as search functionality to make it even more useful.
 
 **Thanks to Eric Matthes, for the inspiration behind this project.**
+

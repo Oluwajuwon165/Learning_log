@@ -38,7 +38,9 @@ learning_log$ source ll_env/bin/activate
 ```
 When the environment is active, you’ll see the name of the environment in parentheses. This implies that it's possible to both install new packages to the environment and utilize packages that have already been installed. Any packages that are installed in ll_env will not be accessible when the environment is inactive.
 To stop using a virtual environment, enter deactivate:
-```(ll_env)learning_log$ deactivate```
+```
+(ll_env)learning_log$ deactivate
+```
 
 ## Usage
 **Once the application is running, navigate to http://localhost:8000 in your web browser to access the homepage. From there, you can create a new account, log in, and start keeping track of your learning topics and entries.**

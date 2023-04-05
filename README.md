@@ -25,7 +25,8 @@ $ git clone https://github.com/Oluwajuwon165/Learning_log.git
 learning_log$ python -m venv ll_env
 ```
 **Note that the name of the new directory, ll_env, is arbitrary and can be changed. Also, you are not meant to include "learning_log$" while running the command**\n
-**In this instance, we're executing the venv module to generate a virtual environment named ll_env. A possible erro you may get is this:
+
+**In this instance, we're executing the venv module to generate a virtual environment named ll_env. A possible erro you may get is this:**
 ```
 Command 'python' not found, did you mean:
 

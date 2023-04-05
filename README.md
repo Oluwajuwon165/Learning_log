@@ -20,7 +20,7 @@ The path to the article will be update in the link, later today.
 ```
 learning_log$ python -m venv ll_env
 ```
-**Note that the name of the new directory, ll_env, is arbitrary and can be changed. Also, you are not meant to include "learning_log$" while running the command
+**Note that the name of the new directory, ll_env, is arbitrary and can be changed. Also, you are not meant to include "learning_log$" while running the command**
 **In this instance, we're executing the venv module to generate a virtual environment named ll_env. A possible erro you may get is this:
 ```
 Command 'python' not found, did you mean:
@@ -32,7 +32,13 @@ To solve that, consider using the version of python that runs on your machine. R
 ```
 learning_log$ python3 -m venv ll_env
 ```
-
+**Activate the virtual environment using the following command:**
+```
+learning_log$ source ll_env/bin/activate
+```
+When the environment is active, you’ll see the name of the environment in parentheses. This implies that it's possible to both install new packages to the environment and utilize packages that have already been installed. Any packages that are installed in ll_env will not be accessible when the environment is inactive.
+To stop using a virtual environment, enter deactivate:
+```(ll_env)learning_log$ deactivate```
 
 ## Usage
 **Once the application is running, navigate to http://localhost:8000 in your web browser to access the homepage. From there, you can create a new account, log in, and start keeping track of your learning topics and entries.**

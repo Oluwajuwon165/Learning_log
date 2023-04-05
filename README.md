@@ -120,7 +120,8 @@ That's all, for the configurations.
 ```
 (ll_env)learning_log$ python manage.py runserver
 ```
-**Note that you need to run this command from the root of the project directory.**\n
+**Note that you need to run this command from the root of the project's directory.**
+
 A successful output should look like this:
 ```
 Watching for file changes with StatReloader

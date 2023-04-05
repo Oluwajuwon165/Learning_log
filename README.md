@@ -134,7 +134,8 @@ Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
 ```
 
-The output shows your server is running on http://127.0.0.1:8000/\n
+The output shows the server is running on http://127.0.0.1:8000/
+
 You can specify a different port other than 8000 if you intend not to use the default port of the Django's development server using the command:
 ```
 (ll_env)learning_log$ python manage.py runserver 8080

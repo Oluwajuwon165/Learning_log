@@ -16,6 +16,7 @@ The path to the article will be update in the link, later today.
 ### To run the application locally, you will need to:
 
 **Clone the project repository and navigate to the root directory**.\n
+
 **Create a virtual environment for the project using the following command:**
 ```
 learning_log$ python -m venv ll_env

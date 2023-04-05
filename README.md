@@ -17,9 +17,8 @@ The path to the article will be update in the link, later today.
 
 **Clone the project repository and navigate to the root directory.**\n
 **Create a virtual environment for the project using the following command:**
-```
-learning_log$ python -m venv ll_env
-```
+
+`#learning_log$ python -m venv ll_env`
 
 ## Usage
 **Once the application is running, navigate to http://localhost:8000 in your web browser to access the homepage. From there, you can create a new account, log in, and start keeping track of your learning topics and entries.**

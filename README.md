@@ -16,7 +16,9 @@ The path to the article will be update in the link, later today.
 ### To run the application locally, you will need to:
 
 **Clone this repository to your local machine**
+
 **Install the required dependencies by running pip install -r requirements.txt**
+
 **Run the application by executing the manage.py file**
 
 ## Usage

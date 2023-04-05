@@ -143,7 +143,7 @@ You can specify a different port other than 8000 if you intend not to use the de
 The specified command above designates port 8080, however, any port that is currently available can be selected for use.
 
 ## Usage
-**Once the application is running, navigate to http://127.0.0.1:8000/ (if you used the default port) in your web browser to access the homepage. From there, you can create a new account, log in, and start keeping track of your learning via the topics and entries section.**
+**Once the application is running, navigate to http://127.0.0.1:8000/ (if you used the default port) in your web browser to access the homepage. From there, you can create a new account or log in, and begin tracking your learning progress by creating and managing topics and entries.**
 
 ## Contributing
 Contributions to this project are welcome. If you would like to contribute, please fork this repository and submit a pull request.
@@ -159,3 +159,4 @@ One of the main challenges I faced was was the deployment of the app. I encounte
 Overall, I am very happy with the outcome of the project and I have already started using it to keep track of my own learning progress. In the future, I would like to add more features such as search functionality to make it even more useful.
 
 **Thanks to Eric Matthes, for the inspiration behind this project.**
+

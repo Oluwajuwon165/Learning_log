@@ -1,6 +1,6 @@
 # Project Name: Learning Log
 ## Introduction
-This is a web application that allows users to keep track of topics they are learning about and make entries on each topic. The application was built as a final project for the ALX SE foundations days. The resource used was Python Crash Course book by Eric Matthes.
+This is a web application that allows users to keep track of topics they are learning about and make entries on each topic. The application was built as a final project for the ALX SE Foundations days. The resource used was Python Crash Course book by Eric Matthes.
 
 ## Link to the deployed site:
 I'm currently having some difficulties deploying the app. This part of the README will be updated as soon as I get to deploy the app.

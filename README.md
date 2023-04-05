@@ -26,7 +26,7 @@ learning_log$ python -m venv ll_env
 ```
 **Note that the name of the new directory, ll_env, is arbitrary and can be changed. Also, you are not meant to include "learning_log$" while running the command**
 
-**In this instance, we're executing the venv module to generate a virtual environment named ll_env. A possible erro you may get is this:**
+**In this instance, we're executing the venv module to generate a virtual environment named ll_env. A possible error you may get is this:**
 ```
 Command 'python' not found, did you mean:
 
@@ -154,4 +154,3 @@ One of the main challenges I faced was was the deployment of the app. I encounte
 Overall, I am very happy with the outcome of the project and I have already started using it to keep track of my own learning progress. In the future, I would like to add more features such as search functionality to make it even more useful.
 
 **Thanks to Eric Matthes, for the inspiration behind this project.**
-

@@ -15,7 +15,10 @@ The path to the article will be update in the link, later today.
 ## Installation
 ### To run the application locally, you will need to:
 
-**Clone the project repository and navigate to the root directory of the project.**
+**Clone the project repository and navigate to the root directory of the project. To clone the repo, run this command:**
+```
+$ git clone https://github.com/Oluwajuwon165/Learning_log.git
+```
 
 **Create a virtual environment for the project using the following command:**
 ```

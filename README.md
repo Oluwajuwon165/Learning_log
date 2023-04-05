@@ -43,7 +43,7 @@ learning_log$ source ll_env/bin/activate
 ```
 **You should replace "ll_env" with the name of your virtual environment (if you chose a different name other than ll_env).**
 
-When the environment is active, you’ll see the name of the environment in parentheses. Something like this:
+When the environment is active, you’ll see the name of the environment in parenthesis. Something like this:
 ```
 (ll_env)learning_log$
 ```

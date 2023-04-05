@@ -16,10 +16,11 @@ The path to the article will be update in the link, later today.
 ### To run the application locally, you will need to:
 
 **Clone this repository to your local machine**
-**Install the required dependencies by running pip install -r requirements.txt
-Run the application by executing the manage.py file
-Usage
-Once the application is running, navigate to http://localhost:5000 in your web browser to access the homepage. From there, you can create a new account, log in, and start keeping track of your learning topics and entries.**
+**Install the required dependencies by running pip install -r requirements.txt**
+**Run the application by executing the manage.py file**
+
+## Usage
+**Once the application is running, navigate to http://localhost:5000 in your web browser to access the homepage. From there, you can create a new account, log in, and start keeping track of your learning topics and entries.**
 
 ## Contributing
 Contributions to this project are welcome. If you would like to contribute, please fork this repository and submit a pull request.

@@ -3,10 +3,10 @@
 This is a web application that allows users to keep track of topics they are learning about and make entries on each topic. The application was built as a final project for the ALX SE Foundations days. The resource used was Python Crash Course book by Eric Matthes.
 
 ## Link to the deployed site:
-I'm currently having some difficulties deploying the app. This part of the README will be updated as soon as I get to deploy the app.
+https://main-bvxea6i-bbm6pckjuk7yk.us-3.platformsh.site/
 
-## Final project blog article: https://medium.com/@ollyjhay
-The path to the article will be update in the link, later today.
+## Final project blog article:
+https://medium.com/@ollyjhay/the-leraning-log-web-app-96f80692dace
 
 ## Author: Oladiti Oluwajuwon
 
